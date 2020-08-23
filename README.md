@@ -1,2 +1,26 @@
 # GIL-mms-VUE
-GIL-mms 学院/实验室信息系统前端项目
+GIL-mms 学院/实验室信息系统前端
+
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
