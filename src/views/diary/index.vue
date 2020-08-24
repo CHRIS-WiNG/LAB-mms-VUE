@@ -85,7 +85,7 @@ export default {
       direction: 'rtl',
       searchMap: {
         name: '',
-        date: ['', ''],
+        date: [],
       }, //条件查询绑定的条件值
       pojo: {
         uid: '',
